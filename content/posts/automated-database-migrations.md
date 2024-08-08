@@ -35,7 +35,7 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
-# Why do we need it?
+## Why?
 As a data engineer, we cannot imagine our life without a database at this point. We plan our data
 schema, and proceed to create it, for a while life is wonderful and nothing is required from us.
 As we approach to the expiry date, the update is inevitable. But how we gonna do it? 
@@ -46,5 +46,5 @@ to create a new .docx file and throw the lines of the sql there so you can see t
 it is not fancy, and fancy is what we do here. Jokes aside, maybe you've decided to use a tool alembic
 to automatically run the migrations with versioning. Awesome choice, so let's go and desing our
 postgres database which we gonna run on the cloud.
-
+## High-level architecture
 <mark>To be continued...</mark>
