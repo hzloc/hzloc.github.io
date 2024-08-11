@@ -54,8 +54,8 @@ Please check the github repo [realtime-order-analytics](https://github.com/hzloc
 to see how to build it on your local machine, and run for repeating the project.
 
 The most important things that made me to choose **grafana** was how easy to reproduce the dashboards using **json** build files.
-Without doing anything, we will see the same dashboard since everything can be provisioned in runtime, and this is a hugo advantage,
-when you want to share the ready solution for people to try effortlessly!
+Without doing anything, we will see the same dashboard since everything can be provisioned in build time, and this is a huge advantage,
+especially when you want to share the ready solution for people to try effortlessly!
 
 ## Final results
 Below you can see the end product
